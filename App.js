@@ -5,7 +5,7 @@ import Loading from "./Loading";
 import * as Location from "expo-location";
 import axios from "axios";
 
-const API_KEY = "ddf9a1cefd11155be63b8d337dcdf014";
+const API_KEY = "";
 
 export default class extends React.Component {
 
